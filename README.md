@@ -1,6 +1,6 @@
 # Basic Todo App (React Native)
 
-A small React Native todo app for adding, completing, and deleting tasks — kept intentionally minimal for learning and quick daily use.
+A small and minimal React Native todo app for adding, completing, and deleting tasks for daily use.
 
 ### Features
 
